@@ -1,8 +1,15 @@
-{% extends "filmy/base.html" %}
-{% block 'title' %} Gaflix - Prvni {% endblock %}
-{% block 'content'%}
-    <h1> Prvni </h1>
-    <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo nostrum ullam quae aliquam non necessitatibus repellat excepturi similique voluptates possimus adipisci repudiandae perspiciatis nesciunt ad, nisi maiores. Sint, sed obcaecati?
-    </p>
+{% extends 'filmy/base.html'%}
+
+{% block 'title' %} 
+{{ block.super }} - prvni
+{% endblock %}
+
+{% block 'content' %}
+<h1> Ahoj lidi </h1>
+<p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, quod consequatur?
+    Omnis consequatur, vitae sed adipisci minus id minima iste exercitationem facilis velit, quidem tempore. 
+    Dicta reiciendis sed omnis. Nihil?
+</p>
+
 {% endblock %}
