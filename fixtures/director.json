@@ -1,0 +1,52 @@
+[
+{
+  "model": "filmy.director",
+  "pk": 1,
+  "fields": {
+    "name": "Tarantino",
+    "birth_year": 1963,
+    "description": "Quentin Jerome Tarantino (/ˌtærənˈtiːnoʊ/; born March 27, 1963) is an American film director, screenwriter, and actor. His films are characterized by stylized violence as well as extended, colorful dialogue and references to popular culture.\r\n\r\nTarantino began his career as an independent filmmaker with the release of the neo-noir crime drama film Reservoir Dogs in 1992. His second film, Pulp Fiction (1994), a dark comedy crime thriller, was a major success with critics and audiences winning numerous awards, including the Cannes Film Festival's Palme d'Or and the Academy Award for Best Original Screenplay. In 1996, he wrote and starred in the action-horror film From Dusk till Dawn. Tarantino's third film, the crime drama Jackie Brown (1997), paid homage to blaxploitation films.\r\n\r\nIn 2003, Tarantino directed Kill Bill: Volume 1, inspired by the traditions of martial arts films; it was followed by Volume 2 in 2004, with both volumes combined regarded as a single film. He then made the exploitation-slasher Death Proof (2007), part of a double feature with Robert Rodriguez released under the collective title Grindhouse. His next film, Inglourious Basterds (2009), follows an alternate account of World War II. He followed this with Django Unchained (2012), a slave revenge Spaghetti Western, which won him his second Academy Award for Best Original Screenplay. His eighth film, The Hateful Eight (2015), is a revisionist Western thriller and opened to audiences with a roadshow release. His most recent film, Once Upon a Time in Hollywood (2019), is a comedy drama set in the late 1960s about the transition of Old Hollywood to New Hollywood. A novelization of the film written by Tarantino was published in 2021, becoming his debut novel.\r\n\r\nTarantino's work has been subject to criticism, such as the depictions of violence and frequent inclusion of racial slurs. During Tarantino's career, his films have garnered a cult following; as well as critical and commercial success, he has been considered \"the single most influential director of his generation\". Other major awards won by Tarantino include two BAFTAs and four Golden Globes.",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.director",
+  "pk": 2,
+  "fields": {
+    "name": "Steven Spielberg",
+    "birth_year": 1946,
+    "description": "Steven Spielberg is an American director, producer, and screenwriter known for his influential and versatile filmmaking. He has directed iconic films such as \"Jaws\" (1975), \"E.T. the Extra-Terrestrial\" (1982), \"Jurassic Park\" (1993), and \"Schindler's List\" (1993). Spielberg is often credited with pioneering the modern blockbuster and has received multiple Academy Awards for his work.",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.director",
+  "pk": 3,
+  "fields": {
+    "name": "Martin Scorsese",
+    "birth_year": 1942,
+    "description": "Martin Scorsese is an American director, producer, screenwriter, and actor, celebrated for his contributions to cinema, particularly in the crime and drama genres. Known for films like \"Taxi Driver\" (1976), \"Goodfellas\" (1990), \"The Wolf of Wall Street\" (2013), and \"The Irishman\" (2019), Scorsese's work often explores themes of identity, morality, and redemption. He is also a prominent advocate for film preservation",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.director",
+  "pk": 4,
+  "fields": {
+    "name": "Christopher Nolan",
+    "birth_year": 1970,
+    "description": "Christopher Nolan is a British-American director, producer, and screenwriter renowned for his complex narratives and innovative visual storytelling. His acclaimed films include \"Memento\" (2000), \"The Dark Knight Trilogy\" (2005-2012), \"Inception\" (2010), \"Interstellar\" (2014), and \"Dunkirk\" (2017). Nolan's work often explores philosophical themes, human consciousness, and the nature of time.",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.director",
+  "pk": 5,
+  "fields": {
+    "name": "Kathryn Bigelow",
+    "birth_year": 1951,
+    "description": "Kathryn Bigelow is an American director, producer, and screenwriter known for her gripping and intense filmmaking style. She is best known for directing films such as \"Point Break\" (1991), \"The Hurt Locker\" (2008), and \"Zero Dark Thirty\" (2012). Bigelow made history as the first woman to win the Academy Award for Best Director for \"The Hurt Locker,\" and she is celebrated for her work in action and war genres.",
+    "main_picture": ""
+  }
+}
+]
