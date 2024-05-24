@@ -11,3 +11,7 @@
 ## Database
 1. `python manage.py makemigrations`
 2. `python manage.py migrate`
+## Fixtures
+- dump test data`./manage.py dumpdata --indent 2 filmy.MODELNAME > fixtures/FILENAMEOFMODEL.json`  
+  UTF-8 Chars: sh - `export PYTHONIOENCODING=utf-8 && python manage.py dumpdata --indent 2 MODELNAME > fixtures/FILENAMEOFMODEL.json`
+- load fixtures - `python manage.py loaddata fixtures/FILENAMEOFMODEL.json`
