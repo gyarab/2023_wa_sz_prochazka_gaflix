@@ -1,0 +1,52 @@
+[
+{
+  "model": "filmy.actor",
+  "pk": 1,
+  "fields": {
+    "name": "Sophia Delaney",
+    "birth_year": 1985,
+    "description": "Sophia Delaney is a talented British actress celebrated for her powerful portrayals of complex characters. She gained widespread recognition for her lead role in the romantic drama \"Eternal Whispers\" and later solidified her status as a leading actress with her performance in the psychological thriller \"Mind Games.\"",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.actor",
+  "pk": 2,
+  "fields": {
+    "name": "James Lockwood",
+    "birth_year": 1978,
+    "description": "James Lockwood is a versatile American actor known for his dynamic range and compelling performances. He has starred in a variety of genres, from intense dramas to high-octane action films. Lockwood's notable works include his critically acclaimed role in the drama \"Silent Echoes\" and his action-packed performance in \"Bullet Chase.\"",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.actor",
+  "pk": 3,
+  "fields": {
+    "name": "Carlos Mendez",
+    "birth_year": 1990,
+    "description": "Carlos Mendez is a charismatic Mexican actor who has become a rising star in both the Latin American and international film industries. Known for his charming screen presence and emotional depth, Mendez has delivered standout performances in the romantic comedy \"Amor Real\" and the intense crime drama \"Borderline.\"",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.actor",
+  "pk": 4,
+  "fields": {
+    "name": "Ava Kingsley",
+    "birth_year": 1992,
+    "description": "Ava Kingsley is an Australian actress known for her roles in independent films and major blockbusters alike. With her natural talent and captivating screen presence, Kingsley has impressed audiences and critics with her performances in the indie hit \"Windswept\" and the sci-fi adventure \"Galactic Frontier.\"",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.actor",
+  "pk": 5,
+  "fields": {
+    "name": "Liam O'Hara",
+    "birth_year": 1983,
+    "description": "Liam O'Hara is an Irish actor renowned for his versatility and commitment to his craft. He has earned praise for his performances in historical dramas and modern thrillers. O'Hara's memorable roles include his portrayal of a conflicted soldier in \"Fields of Honor\" and a determined detective in \"Dark City.\"",
+    "main_picture": ""
+  }
+}
+]
