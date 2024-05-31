@@ -7,7 +7,14 @@
     "year": 1984,
     "footage": 107,
     "description": "The Terminator is a 1984 American science fiction action film directed by James Cameron, written by Cameron and Gale Anne Hurd and produced by Hurd. It stars Arnold Schwarzenegger as the Terminator, a cybernetic assassin sent back in time from 2029 to 1984 to kill Sarah Connor, whose unborn son will one day save mankind from extinction by Skynet, a hostile artificial intelligence in a post-apocalyptic future. Wikipedia",
-    "main_picture": ""
+    "main_picture": "",
+    "director": 4,
+    "actors": [
+      3
+    ],
+    "genres": [
+      1
+    ]
   }
 },
 {
@@ -18,7 +25,19 @@
     "year": 1987,
     "footage": 107,
     "description": "Predator is a 1987 American science fiction action film directed by John McTiernan and written by brothers Jim and John Thomas.",
-    "main_picture": ""
+    "main_picture": "",
+    "director": 1,
+    "actors": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "genres": [
+      1,
+      3,
+      5
+    ]
   }
 },
 {
@@ -29,7 +48,18 @@
     "year": 1993,
     "footage": 153,
     "description": "\"Schindler's List\" is a historical drama film based on the true story of Oskar Schindler, a German businessman who saved over a thousand Polish-Jewish refugees during the Holocaust by employing them in his factories. The film is renowned for its powerful storytelling, direction, and its stark portrayal of the horrors of the Holocaust.",
-    "main_picture": ""
+    "main_picture": "",
+    "director": 1,
+    "actors": [
+      3,
+      4,
+      5
+    ],
+    "genres": [
+      1,
+      4,
+      5
+    ]
   }
 },
 {
@@ -40,7 +70,14 @@
     "year": 1990,
     "footage": 112,
     "description": "\"Goodfellas\" is a crime film that follows the rise and fall of Henry Hill, a mob associate, from his early days in the Mafia to his eventual decision to turn state's evidence. The film is praised for its dynamic direction, engaging narrative, and strong performances, particularly by Ray Liotta, Robert De Niro, and Joe Pesci.",
-    "main_picture": ""
+    "main_picture": "",
+    "director": 5,
+    "actors": [
+      5
+    ],
+    "genres": [
+      4
+    ]
   }
 },
 {
@@ -51,7 +88,12 @@
     "year": 2010,
     "footage": 140,
     "description": "\"Inception\" is a science fiction thriller that explores the concept of shared dreams and the nature of reality. The story follows a skilled thief, played by Leonardo DiCaprio, who is given a chance to have his criminal record erased if he can successfully plant an idea into someone's subconscious. The film is lauded for its imaginative premise, intricate plot, and stunning visual effects.",
-    "main_picture": ""
+    "main_picture": "",
+    "director": 4,
+    "actors": [],
+    "genres": [
+      1
+    ]
   }
 },
 {
@@ -62,7 +104,14 @@
     "year": 2008,
     "footage": 92,
     "description": "\"The Hurt Locker\" is a war thriller that provides an intense and realistic portrayal of a bomb disposal team during the Iraq War. The film focuses on the psychological impact of combat and the dangerous nature of the team's work. It received critical acclaim for its direction, performances, and its gripping depiction of modern warfare, earning Bigelow an Academy Award for Best Director.",
-    "main_picture": ""
+    "main_picture": "",
+    "director": 1,
+    "actors": [],
+    "genres": [
+      1,
+      2,
+      5
+    ]
   }
 }
 ]
